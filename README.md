@@ -22,7 +22,7 @@ A página foi construída utilizando **HTML, CSS e a metodologia BEM** (Block El
 - Aplicar a metodologia BEM para um código mais limpo e fácil de manter.
 - Desenvolver um layout totalmente responsivo.
 
-🌐 Acesse o projeto:
+## 🌐 Acesse o projeto:
 
 ```bash
 https://course-selling-landing.vercel.app/
